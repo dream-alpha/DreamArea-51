@@ -1,7 +1,7 @@
 Description: Area-51
 Maintainer: dream-alpha
 Package: enigma2-plugin-systemplugins-area51
-Version: 0.1.2
+Version: 0.1.3
 Architecture: all
 Depends: enigma2-plugin-systemplugins-ubuntucockpit, enigma2-plugin-systemplugins-streamingserver
 Conflicts: enigma2-plugin-ubuntu-area51

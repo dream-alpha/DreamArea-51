@@ -1,7 +1,6 @@
-#!/usr/bin/python
 # coding=utf-8
 #
-# Copyright (C) 2018-2025 by dream-alpha
+# Copyright (C) 2018-2026 by dream-alpha
 #
 # In case of reuse of this source code please do not remove this copyright.
 #
@@ -24,7 +23,7 @@ from .Debug import logger
 from .Version import VERSION
 
 
-def autoStart(reason, **__):
+def autoStart(_reason, **__):
     pass
 
 

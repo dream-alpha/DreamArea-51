@@ -8,5 +8,4 @@
 - It runs on the dreambox Ubuntu chroot subsystem using python3.
 
 ## Links
-- Installation: <https://dream-alpha.github.io/Area-51>
-- Support: <https://github.com/dream-alpha/Area-51/discussions>
+- Installation: https://dream-alpha.github.io/DreamArea-51
